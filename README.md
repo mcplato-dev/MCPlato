@@ -1,18 +1,64 @@
-# MCPlato — The Desktop AI Engine for Local-First AI Workflows
+<p align="center">
+  <img src="assets/mcplato-logo.webp" width="120" alt="MCPlato logo" />
+</p>
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md)
+<h1 align="center">MCPlato</h1>
 
-[![Website](https://img.shields.io/badge/Website-mcplato.com-111827)](https://mcplato.com/en/) [![Download](https://img.shields.io/badge/Download-macOS%20%7C%20Windows-7c3aed)](https://mcplato.com/en/download/) [![Changelog](https://img.shields.io/badge/Changelog-Official-2563eb)](https://mcplato.com/en/changelog/) [![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-0f172a)](https://github.com/mcplato-dev/MCPlato/releases) [![Source](https://img.shields.io/badge/Source%20code-not%20included-b91c1c)](#is-this-open-source)
+<p align="center"><strong>The Desktop AI Engine for Local-First AI Workflows</strong></p>
 
-**MCPlato** is an **AI Partner** for your desktop: a **local-first AI workspace** that helps read, write, execute, automate, and iterate across files, tools, documents, browsers, and long-running workflows — with your permission, on your machine.
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.zh-CN.md">简体中文</a> |
+  <a href="README.ja.md">日本語</a> |
+  <a href="README.fr.md">Français</a> |
+  <a href="README.de.md">Deutsch</a> |
+  <a href="README.es.md">Español</a>
+</p>
 
-`Desktop AI Engine` · `Local-First AI` · `AI Partner` · `Autonomous Agent` · `ClawMode` · `Scheduled Tasks` · `MCP Native` · `Skills` · `Browser Automation` · `Document AI` · `macOS` · `Windows`
+<p align="center">
+  <a href="https://mcplato.com/en/"><img src="https://img.shields.io/badge/Website-mcplato.com-111827" alt="Website" /></a>
+  <a href="https://mcplato.com/en/download/"><img src="https://img.shields.io/badge/Download-macOS%20%7C%20Windows-7c3aed" alt="Download" /></a>
+  <a href="https://mcplato.com/en/changelog/"><img src="https://img.shields.io/badge/Changelog-Official-2563eb" alt="Changelog" /></a>
+  <a href="https://mcplato.com/en/blog/"><img src="https://img.shields.io/badge/Blog-AI%20Agents%20%26%20Workflows-0f766e" alt="Blog" /></a>
+</p>
 
-> This repository is a public product information and release-announcement hub for MCPlato. MCPlato is proprietary software; the application source code is not included here.
+<p align="center">
+  <strong>Think Together, Think Beyond.</strong><br />
+  Local-first by design. With your permission, AI works with your files, your tools, your way.
+</p>
+
+<p align="center">
+  <a href="https://mcplato.com/en/download/">Download</a> |
+  <a href="https://mcplato.com/en/clawmode/">ClawMode</a> |
+  <a href="https://mcplato.com/en/blog/">Blog</a> |
+  <a href="https://mcplato.com/en/changelog/">Changelog</a> |
+  <a href="https://mcplato.com/en/pricing/">Pricing</a>
+</p>
+
+<p align="center">
+  <img src="assets/mcplato-hero.png" alt="MCPlato — The Desktop AI Engine" />
+</p>
+
+<p align="center">
+  <code>Desktop AI Engine</code> · <code>Local-First AI</code> · <code>AI Partner</code> · <code>Autonomous Agent</code> · <code>ClawMode</code> · <code>Scheduled Tasks</code> · <code>MCP Native</code> · <code>Skills</code> · <code>Browser Automation</code> · <code>Document AI</code> · <code>macOS</code> · <code>Windows</code>
+</p>
+
+## What is MCPlato?
+
+**MCPlato** is an **AI Partner** for your desktop: a **local-first AI workspace** that helps read, write, execute, automate, and iterate across files, tools, documents, browsers, and long-running workflows.
+
+Instead of treating AI as a floating chatbot, MCPlato turns work contexts into AI Partner workspaces. Each partner can help with a specific project, remember context, ask before taking action, and continue long-running work while you focus elsewhere.
+
+## Why teams use MCPlato
+
+- **Local-first control** — work with files and tools on your own computer, with explicit permission boundaries.
+- **AI Partner workspaces** — keep dedicated partners for projects, reports, research, operations, or personal productivity.
+- **Autonomous workflows** — schedule recurring AI tasks for reports, reviews, cleanup, monitoring, and follow-up.
+- **ClawMode access** — reach your AI partner from supported messaging channels and let it continue background work.
+- **Skills and MCP tools** — extend MCPlato with reusable capabilities for documents, spreadsheets, PDFs, browser automation, image workflows, and external services.
+- **Parallel productivity** — run multiple AI conversations and workflows without blocking your main task.
 
 ## Model & integration ecosystem
-
-MCPlato follows the official website positioning: it is powered by leading AI models, connects to everyday productivity tools, and can be reached through messaging channels for ClawMode workflows.
 
 **Powered by leading AI models**
 
@@ -49,23 +95,6 @@ MCPlato follows the official website positioning: it is powered by leading AI mo
   <img src="https://img.shields.io/badge/QQ%20Bot-channel-12B7F5?style=for-the-badge" alt="QQ Bot" />
 </p>
 
-This wording describes product compatibility and ecosystem coverage. It does not imply that every listed company is a formal commercial partner.
-
-## What is MCPlato?
-
-MCPlato is a desktop AI engine for people who want an AI coworker that can work with real files, tools, documents, and workflows — not just answer chat messages.
-
-Instead of treating AI as a floating chatbot, MCPlato turns your local work context into AI Partner workspaces. Each partner can help with a specific project, remember context, ask before taking action, and continue long-running work while you focus elsewhere.
-
-## Why teams use MCPlato
-
-- **Local-first control** — work with files and tools on your own computer, with explicit permission boundaries.
-- **AI Partner workspaces** — keep dedicated partners for projects, reports, research, operations, or personal productivity.
-- **Autonomous workflows** — schedule recurring AI tasks for reports, reviews, cleanup, monitoring, and follow-up.
-- **ClawMode access** — reach your AI partner from supported messaging channels and let it continue background work.
-- **Skills and MCP tools** — extend MCPlato with reusable capabilities for documents, spreadsheets, PDFs, browser automation, image workflows, and external services.
-- **Parallel productivity** — run multiple AI conversations and workflows without blocking your main task.
-
 ## Core capabilities
 
 | Capability | What it helps with |
@@ -86,11 +115,31 @@ Instead of treating AI as a floating chatbot, MCPlato turns your local work cont
 - **Teams** — prepare weekly updates, process shared documents, coordinate follow-ups, and keep context across multi-day projects.
 - **Creators and operators** — draft content, generate visuals, organize files, analyze spreadsheets, and build repeatable office workflows.
 
+## From the MCPlato blog
+
+Explore practical comparisons and workflow guides from the official MCPlato blog.
+
+| Topic | Guide |
+| --- | --- |
+| Agent comparison | [Pi, Hermes, Codex, Claude Code, and MCPlato: Which Agent Fits Your Work?](https://mcplato.com/en/blog/pi-agent-hermes-codex-claude-code-mcplato/) |
+| AI workspace categories | [AI Workspace Is Splitting Into Three Categories](https://mcplato.com/en/blog/ai-workspace-suites-knowledge-hubs-workflow-harnesses/) |
+| Agent control patterns | [How to Use General AI Agents Without Losing Control](https://mcplato.com/en/blog/general-agent-best-practices/) |
+| Production agent harness | [Long-running AI Agent Harness: The Missing Piece for Production-Ready Agents](https://mcplato.com/en/blog/long-running-ai-harness-2026/) |
+| Agent harness comparison | [OpenClaw vs Claude Code vs Hermes vs MCPlato](https://mcplato.com/en/blog/ai-agent-harness-comparison-2026/) |
+
+<p align="center">
+  <a href="https://mcplato.com/en/blog/pi-agent-hermes-codex-claude-code-mcplato/"><img src="assets/blog-agent-comparison.webp" width="48%" alt="Agent comparison" /></a>
+  <a href="https://mcplato.com/en/blog/ai-workspace-suites-knowledge-hubs-workflow-harnesses/"><img src="assets/blog-ai-workspace-categories.webp" width="48%" alt="AI workspace categories" /></a>
+</p>
+
+<p align="center">
+  <a href="https://mcplato.com/en/blog/general-agent-best-practices/"><img src="assets/blog-agent-best-practices.webp" width="48%" alt="General agent best practices" /></a>
+  <a href="https://mcplato.com/en/blog/long-running-ai-harness-2026/"><img src="assets/blog-long-running-harness.webp" width="48%" alt="Long-running AI harness" /></a>
+</p>
+
 ## Getting started
 
-This is not a source repository. Do not clone this repository expecting to build MCPlato.
-
-Use the official product links instead:
+Use the official product links:
 
 - [Visit the MCPlato website](https://mcplato.com/en/)
 - [Download MCPlato for macOS or Windows](https://mcplato.com/en/download/)
@@ -101,17 +150,9 @@ Use the official product links instead:
 
 ## FAQ
 
-### Is this open source?
-
-No. MCPlato is proprietary software. This repository is a public product information and release-announcement hub. The MCPlato application source code is not included.
-
-### Can I build MCPlato from this repository?
-
-No. GitHub-generated source archives for this repository contain only the public information files in this repository, not the MCPlato application source code.
-
 ### Where are release notes?
 
-GitHub Releases provide short public summaries for discovery. The official source of truth is the [MCPlato changelog](https://mcplato.com/en/changelog/).
+The official source of truth is the [MCPlato changelog](https://mcplato.com/en/changelog/).
 
 ### Where do I download MCPlato?
 
@@ -119,4 +160,4 @@ Use the official [Download page](https://mcplato.com/en/download/).
 
 ## Legal notice
 
-MCPlato is proprietary software. All product names, logos, and brands are property of their respective owners. This repository does not grant any right to copy, modify, distribute, or build the MCPlato application source code.
+All product names, logos, and brands are property of their respective owners.

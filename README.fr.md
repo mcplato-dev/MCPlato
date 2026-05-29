@@ -1,14 +1,39 @@
-# MCPlato — Desktop AI Engine pour les workflows IA local-first
+<p align="center">
+  <img src="assets/mcplato-logo.webp" width="120" alt="MCPlato logo" />
+</p>
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md)
+<h1 align="center">MCPlato</h1>
 
-[Website](https://mcplato.com/fr/) · [Download](https://mcplato.com/fr/download/) · [Changelog](https://mcplato.com/fr/changelog/) · [Blog](https://mcplato.com/fr/blog/) · [GitHub Releases](https://github.com/mcplato-dev/MCPlato/releases)
+<p align="center"><strong>Desktop AI Engine pour les workflows IA local-first</strong></p>
+
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.zh-CN.md">简体中文</a> |
+  <a href="README.ja.md">日本語</a> |
+  <a href="README.fr.md">Français</a> |
+  <a href="README.de.md">Deutsch</a> |
+  <a href="README.es.md">Español</a>
+</p>
+
+<p align="center">
+  <a href="https://mcplato.com/fr/">Website</a> |
+  <a href="https://mcplato.com/fr/download/">Download</a> |
+  <a href="https://mcplato.com/fr/changelog/">Changelog</a> |
+  <a href="https://mcplato.com/fr/blog/">Blog</a>
+</p>
+
+<p align="center">
+  <strong>Think Together, Think Beyond.</strong><br />
+  Local-first by design. AI works with your files, your tools, your way.
+</p>
+
+<p align="center">
+  <code>Desktop AI Engine</code> · <code>Local-First AI</code> · <code>AI Partner</code> · <code>Autonomous Agent</code> · <code>ClawMode</code> · <code>Scheduled Tasks</code> · <code>MCP Native</code> · <code>Skills</code> · <code>Browser Automation</code> · <code>Document AI</code> · <code>macOS</code> · <code>Windows</code>
+</p>
+
+## Qu'est-ce que MCPlato ?
 
 **MCPlato** est un **AI Partner** pour votre ordinateur : un espace de travail IA local-first qui peut, avec votre autorisation, lire, écrire, exécuter, automatiser et itérer sur des fichiers, outils, documents, navigateurs et workflows de longue durée.
-
-`Desktop AI Engine` · `Local-First AI` · `AI Partner` · `Autonomous Agent` · `ClawMode` · `Scheduled Tasks` · `MCP Native` · `Skills` · `Browser Automation` · `Document AI` · `macOS` · `Windows`
-
-> Ce dépôt est un hub public d'information produit et d'annonces de versions pour MCPlato. Ce n'est pas un dépôt open source. Le code source de l'application MCPlato n'est pas inclus.
 
 ## Capacités clés
 
@@ -22,16 +47,16 @@
 
 Le site officiel présente MCPlato avec des modèles IA, des intégrations d'outils et des canaux de messagerie, notamment xAI, OpenAI, Anthropic, Google, DeepSeek, Z.ai, Kimi, GitHub, Notion, Slack, Linear, Google Drive, Dropbox, Telegram, Discord, Feishu, WeCom, WeChat et QQ Bot.
 
-Cette formulation décrit la compatibilité produit et la couverture de l'écosystème. Elle n'implique pas que chaque entreprise listée soit un partenaire commercial formel.
+## Depuis le blog
+
+- [Pi, Hermes, Codex, Claude Code, and MCPlato: Which Agent Fits Your Work?](https://mcplato.com/fr/blog/pi-agent-hermes-codex-claude-code-mcplato/)
+- [AI Workspace Is Splitting Into Three Categories](https://mcplato.com/fr/blog/ai-workspace-suites-knowledge-hubs-workflow-harnesses/)
+- [How to Use General AI Agents Without Losing Control](https://mcplato.com/fr/blog/general-agent-best-practices/)
+- [Long-running AI Agent Harness](https://mcplato.com/fr/blog/long-running-ai-harness-2026/)
 
 ## Commencer
 
-Utilisez les liens officiels :
-
 - [Visiter le site](https://mcplato.com/fr/)
 - [Télécharger MCPlato](https://mcplato.com/fr/download/)
+- [Explorer ClawMode](https://mcplato.com/fr/clawmode/)
 - [Lire le changelog officiel](https://mcplato.com/fr/changelog/)
-
-## Est-ce open source ?
-
-Non. MCPlato est un logiciel propriétaire. Ce dépôt contient uniquement des informations publiques sur le produit et des résumés de versions. Il ne contient pas le code source de l'application MCPlato.

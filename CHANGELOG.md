@@ -1,6 +1,6 @@
 # MCPlato Changelog Summaries
 
-This file contains short public summaries for discoverability. The official source of truth is the [MCPlato changelog](https://mcplato.com/en/changelog/).
+Short release summaries for GitHub discovery. The official source of truth is the [MCPlato changelog](https://mcplato.com/en/changelog/).
 
 ## v2.1 — AI Partner
 
@@ -18,7 +18,3 @@ MCPlato v2.1 marks a positioning upgrade from an AI workspace into an **AI Partn
 - **Smarter permission auto-allow** — permission handling is centrally managed and dangerous operations remain blocked automatically.
 
 Read the full official changelog: https://mcplato.com/en/changelog/
-
----
-
-This repository is a public product information hub. MCPlato application source code is not included.
