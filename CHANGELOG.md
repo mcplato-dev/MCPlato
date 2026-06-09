@@ -2,6 +2,18 @@
 
 Short release summaries for GitHub discovery. The official source of truth is the [MCPlato changelog](https://mcplato.com/en/changelog/).
 
+## v2.2 — More Visual, More Guided, More Reliable
+
+MCPlato v2.2 makes your **AI Partner** more visual, easier to use, and more reliable — with smarter image generation, an in-app usage assistant, and a more dependable ClawMode experience.
+
+### Highlights
+
+- **More powerful image generation** — upload screenshots, photos, or design drafts and let AI understand the image first, then generate new visuals, recreate a style, or make targeted edits. Supports images up to 32MB with sharper, more stable outputs.
+- **MCPlato Usage Assistant** — can't find a setting? Just ask. MCPlato jumps to the right page, highlights the exact option, and surfaces current states like language, credits, and permissions — helping both new and experienced users get started.
+- **ClawMode experience improvements** — when AI is busy, new messages are queued automatically, answered in order, and preserved after restart. Improved context understanding reduces missed messages, off-topic replies, and interrupted conversations.
+
+Read the full official changelog: https://mcplato.com/en/changelog/
+
 ## v2.1 — AI Partner
 
 MCPlato v2.1 marks a positioning upgrade from an AI workspace into an **AI Partner**. The desktop experience and runtime engine have been rebuilt around partner-style workspaces, multi-window collaboration, and faster parallel AI work.
